@@ -1,7 +1,3 @@
 aaaaa
 
-<<<<<<< HEAD
-Thành ngu như bò
-=======
-Thành chó
->>>>>>> c1555f1dbe7505fd57f7a0c3181af19b01e9c91e
+Thành béo như lợn + chó
